@@ -1,2 +1,0 @@
-# Chinese-TEMQ
-Yenfuh
